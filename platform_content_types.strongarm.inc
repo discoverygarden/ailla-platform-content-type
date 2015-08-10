@@ -13,164 +13,102 @@ function platform_content_types_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_anonymous_image_block';
+  $strongarm->name = 'comment_anonymous_slideshow_slide';
   $strongarm->value = 0;
-  $export['comment_anonymous_image_block'] = $strongarm;
+  $export['comment_anonymous_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_anonymous_page';
-  $strongarm->value = 0;
-  $export['comment_anonymous_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'comment_default_mode_image_block';
-  $strongarm->value = 0;
-  $export['comment_default_mode_image_block'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'comment_default_mode_page';
+  $strongarm->name = 'comment_default_mode_slideshow_slide';
   $strongarm->value = 1;
-  $export['comment_default_mode_page'] = $strongarm;
+  $export['comment_default_mode_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_default_per_page_image_block';
+  $strongarm->name = 'comment_default_per_page_slideshow_slide';
   $strongarm->value = '50';
-  $export['comment_default_per_page_image_block'] = $strongarm;
+  $export['comment_default_per_page_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_default_per_page_page';
-  $strongarm->value = '50';
-  $export['comment_default_per_page_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'comment_form_location_image_block';
+  $strongarm->name = 'comment_form_location_slideshow_slide';
   $strongarm->value = 1;
-  $export['comment_form_location_image_block'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'comment_form_location_page';
-  $strongarm->value = 1;
-  $export['comment_form_location_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'comment_image_block';
-  $strongarm->value = '1';
-  $export['comment_image_block'] = $strongarm;
+  $export['comment_form_location_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'comment_page';
-  $strongarm->value = '0';
+  $strongarm->value = 0;
   $export['comment_page'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_preview_image_block';
+  $strongarm->name = 'comment_preview_slideshow_slide';
   $strongarm->value = '0';
-  $export['comment_preview_image_block'] = $strongarm;
+  $export['comment_preview_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_preview_page';
+  $strongarm->name = 'comment_slideshow_slide';
   $strongarm->value = '1';
-  $export['comment_preview_page'] = $strongarm;
+  $export['comment_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_subject_field_image_block';
+  $strongarm->name = 'comment_subject_field_slideshow_slide';
   $strongarm->value = 1;
-  $export['comment_subject_field_image_block'] = $strongarm;
+  $export['comment_subject_field_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'comment_subject_field_page';
-  $strongarm->value = 1;
-  $export['comment_subject_field_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'field_bundle_settings_node__image_block';
+  $strongarm->name = 'field_bundle_settings_node__slideshow_slide';
   $strongarm->value = array(
     'view_modes' => array(),
     'extra_fields' => array(
       'form' => array(
         'title' => array(
-          'weight' => '0',
+          'weight' => '-5',
         ),
       ),
       'display' => array(),
     ),
   );
-  $export['field_bundle_settings_node__image_block'] = $strongarm;
+  $export['field_bundle_settings_node__slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'language_content_type_page';
+  $strongarm->name = 'language_content_type_slideshow_slide';
   $strongarm->value = '0';
-  $export['language_content_type_page'] = $strongarm;
+  $export['language_content_type_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'menu_options_image_block';
-  $strongarm->value = array(
-    0 => 'main-menu',
-  );
-  $export['menu_options_image_block'] = $strongarm;
+  $strongarm->name = 'menu_options_slideshow_slide';
+  $strongarm->value = array();
+  $export['menu_options_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'menu_options_page';
-  $strongarm->value = array(
-    0 => 'menu-footer-menu',
-    1 => 'menu-header-menu',
-    2 => 'main-menu',
-  );
-  $export['menu_options_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'menu_parent_image_block';
+  $strongarm->name = 'menu_parent_slideshow_slide';
   $strongarm->value = 'main-menu:0';
-  $export['menu_parent_image_block'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'menu_parent_page';
-  $strongarm->value = 'main-menu:0';
-  $export['menu_parent_page'] = $strongarm;
+  $export['menu_parent_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_export_existing';
-  $strongarm->value = 'skip';
+  $strongarm->value = 'new';
   $export['node_export_existing'] = $strongarm;
 
   $strongarm = new stdClass();
@@ -185,9 +123,9 @@ function platform_content_types_strongarm() {
   $strongarm->api_version = 1;
   $strongarm->name = 'node_export_file_types';
   $strongarm->value = array(
-    'article' => 'article',
-    'page' => 'page',
-    'image_block' => 'image_block',
+    'slideshow_slide' => 'slideshow_slide',
+    'article' => 0,
+    'page' => 0,
   );
   $export['node_export_file_types'] = $strongarm;
 
@@ -195,24 +133,15 @@ function platform_content_types_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_export_reset_menu_page';
-  $strongarm->value = 0;
+  $strongarm->value = 1;
   $export['node_export_reset_menu_page'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_export_reset_path_page';
-  $strongarm->value = 0;
+  $strongarm->value = 1;
   $export['node_export_reset_path_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'node_options_image_block';
-  $strongarm->value = array(
-    0 => 'status',
-  );
-  $export['node_options_image_block'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
@@ -226,30 +155,32 @@ function platform_content_types_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'node_preview_image_block';
-  $strongarm->value = '1';
-  $export['node_preview_image_block'] = $strongarm;
+  $strongarm->name = 'node_options_slideshow_slide';
+  $strongarm->value = array(
+    0 => 'status',
+  );
+  $export['node_options_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'node_preview_page';
+  $strongarm->name = 'node_preview_slideshow_slide';
   $strongarm->value = '1';
-  $export['node_preview_page'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'node_submitted_image_block';
-  $strongarm->value = 0;
-  $export['node_submitted_image_block'] = $strongarm;
+  $export['node_preview_slideshow_slide'] = $strongarm;
 
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_submitted_page';
-  $strongarm->value = 0;
+  $strongarm->value = FALSE;
   $export['node_submitted_page'] = $strongarm;
+
+  $strongarm = new stdClass();
+  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
+  $strongarm->api_version = 1;
+  $strongarm->name = 'node_submitted_slideshow_slide';
+  $strongarm->value = 0;
+  $export['node_submitted_slideshow_slide'] = $strongarm;
 
   return $export;
 }
