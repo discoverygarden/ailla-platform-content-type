@@ -108,7 +108,7 @@ function platform_content_types_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'node_export_existing';
-  $strongarm->value = 'new';
+  $strongarm->value = 'skip';
   $export['node_export_existing'] = $strongarm;
 
   $strongarm = new stdClass();

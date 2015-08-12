@@ -673,13 +673,23 @@ function platform_content_types_node_export_features_default() {
       \'type\' => \'slideshow_slide\',
       \'language\' => \'en\',
       \'created\' => \'1438972834\',
-      \'changed\' => \'1438972834\',
+      \'changed\' => \'1439383515\',
       \'tnid\' => \'0\',
       \'translate\' => \'0\',
       \'uuid\' => \'25b46185-67b4-484a-bc30-02d388b6c490\',
-      \'revision_timestamp\' => \'1438972834\',
+      \'revision_timestamp\' => \'1439383515\',
       \'revision_uid\' => \'1\',
-      \'body\' => array(),
+      \'body\' => array(
+        \'und\' => array(
+          array(
+            \'value\' => \'c\',
+            \'summary\' => \'\',
+            \'format\' => \'filtered_html\',
+            \'safe_value\' => "<p>c</p>\\n",
+            \'safe_summary\' => \'\',
+          ),
+        ),
+      ),
       \'field_slideshow_image\' => array(
         \'und\' => array(
           array(
@@ -1150,13 +1160,23 @@ function platform_content_types_node_export_features_default() {
       \'type\' => \'slideshow_slide\',
       \'language\' => \'en\',
       \'created\' => \'1438972417\',
-      \'changed\' => \'1438972417\',
+      \'changed\' => \'1439383489\',
       \'tnid\' => \'0\',
       \'translate\' => \'0\',
       \'uuid\' => \'4dc18762-cddc-4378-a7c6-32c89350ba17\',
-      \'revision_timestamp\' => \'1438972417\',
+      \'revision_timestamp\' => \'1439383489\',
       \'revision_uid\' => \'1\',
-      \'body\' => array(),
+      \'body\' => array(
+        \'und\' => array(
+          array(
+            \'value\' => \'a\',
+            \'summary\' => \'\',
+            \'format\' => \'filtered_html\',
+            \'safe_value\' => "<p>a</p>\\n",
+            \'safe_summary\' => \'\',
+          ),
+        ),
+      ),
       \'field_slideshow_image\' => array(
         \'und\' => array(
           array(
@@ -2634,13 +2654,23 @@ function platform_content_types_node_export_features_default() {
       \'type\' => \'slideshow_slide\',
       \'language\' => \'en\',
       \'created\' => \'1438971839\',
-      \'changed\' => \'1438971839\',
+      \'changed\' => \'1439383499\',
       \'tnid\' => \'0\',
       \'translate\' => \'0\',
       \'uuid\' => \'c6a6cffa-4334-41be-a494-0a9baad5d194\',
-      \'revision_timestamp\' => \'1438971839\',
+      \'revision_timestamp\' => \'1439383499\',
       \'revision_uid\' => \'1\',
-      \'body\' => array(),
+      \'body\' => array(
+        \'und\' => array(
+          array(
+            \'value\' => \'b\',
+            \'summary\' => \'\',
+            \'format\' => \'filtered_html\',
+            \'safe_value\' => "<p>b</p>\\n",
+            \'safe_summary\' => \'\',
+          ),
+        ),
+      ),
       \'field_slideshow_image\' => array(
         \'und\' => array(
           array(
@@ -3198,13 +3228,23 @@ function platform_content_types_node_export_features_default() {
       \'type\' => \'slideshow_slide\',
       \'language\' => \'en\',
       \'created\' => \'1438972769\',
-      \'changed\' => \'1438972769\',
+      \'changed\' => \'1439383522\',
       \'tnid\' => \'0\',
       \'translate\' => \'0\',
       \'uuid\' => \'e68fb9a5-ee60-4902-a3e4-109e81c545de\',
-      \'revision_timestamp\' => \'1438972769\',
+      \'revision_timestamp\' => \'1439383522\',
       \'revision_uid\' => \'1\',
-      \'body\' => array(),
+      \'body\' => array(
+        \'und\' => array(
+          array(
+            \'value\' => \'d\',
+            \'summary\' => \'\',
+            \'format\' => \'filtered_html\',
+            \'safe_value\' => "<p>d</p>\\n",
+            \'safe_summary\' => \'\',
+          ),
+        ),
+      ),
       \'field_slideshow_image\' => array(
         \'und\' => array(
           array(
