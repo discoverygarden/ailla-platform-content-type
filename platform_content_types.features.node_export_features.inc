@@ -782,19 +782,19 @@ function platform_content_types_node_export_features_default() {
       \'type\' => \'page\',
       \'language\' => \'en\',
       \'created\' => \'1439226651\',
-      \'changed\' => \'1439297682\',
+      \'changed\' => \'1439318503\',
       \'tnid\' => \'0\',
       \'translate\' => \'0\',
       \'uuid\' => \'32dd9e74-c22d-4e60-b35b-21e482d8ed8d\',
-      \'revision_timestamp\' => \'1439297682\',
+      \'revision_timestamp\' => \'1439318503\',
       \'revision_uid\' => \'1\',
       \'body\' => array(
         \'und\' => array(
           array(
-            \'value\' => "<p>AILLA is a digital archive of recordings and texts in and about the indigenous languages of Latin America.</p>\\r\\n<p>\\r\\nAccess to AILLA and its resources is always free of charge. Most of the resources in the collection are available to the public, but some have special <a href=\\"access_restrict.html\\">access restrictions</a>.\\r\\n</p>\\r\\n<p>\\r\\n<b>\\r\\nYou must <a href=\\"../user/login.html\\">Register and Login</a> to open or download any media file.\\r\\n</b>\\r\\n</p>\\r\\n<p>\\r\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla/images/tiniest_bunny.gif\\"><b>Users:</b> start by <a href=\\"../search/browse.html?type=menu\\">browsing the catalog</a> or use the navigation menu on the left to find more information about the archive and the indigenous languages of Latin America.\\r\\n</p>\\r\\n<p>\\r\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla/images/tiniest_bunny.gif\\"><b>Depositors:</b> If you want to deposit materials in AILLA, <a href=\\"dep_info.html\\">start here</a>.\\r\\n</p>\\r\\n</br><h3>The Collection</h3></br>\\r\\n<p>The heart of the collection is recordings, both audio and video, in a wide range of genres: narratives, chants, oratory, conversations, songs, and more. Many recordings are transcribed and translated into Spanish, English or Portuguese. </p>\\r\\n<p>The archive also contains a wealth of language documentation materials: grammars, dictionaries, ethnographies, and field notes. The collection includes teaching materials for bilingual education and language revitalization programs.</p>\\r\\n<p>\\r\\nWe are committed to serving the indigenous people of Latin America and the scholars who study their languages. We are always interested in hearing from you. Please <a href=\\"mailto:ailla@ailla.utexas.org\\">contact us</a> if you have any questions, comments, or suggestions.\\r\\n</p>\\r\\n<p></p>\\r\\n<br>",
+            \'value\' => "<p>AILLA is a digital archive of recordings and texts in and about the indigenous languages of Latin America.</p>\\r\\n<p>\\r\\nAccess to AILLA and its resources is always free of charge. Most of the resources in the collection are available to the public, but some have special <a href=\\"access_restrict.html\\">access restrictions</a>.\\r\\n</p>\\r\\n<p>\\r\\n<b>\\r\\nYou must <a href=\\"../user/login.html\\">Register and Login</a> to open or download any media file.\\r\\n</b>\\r\\n</p>\\r\\n<p>\\r\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla_theme/images/tiniest_bunny.gif\\"><b>Users:</b> start by <a href=\\"../search/browse.html?type=menu\\">browsing the catalog</a> or use the navigation menu on the left to find more information about the archive and the indigenous languages of Latin America.\\r\\n</p>\\r\\n<p>\\r\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla_theme/images/tiniest_bunny.gif\\"><b>Depositors:</b> If you want to deposit materials in AILLA, <a href=\\"dep_info.html\\">start here</a>.\\r\\n</p>\\r\\n</br><h3>The Collection</h3></br>\\r\\n<p>The heart of the collection is recordings, both audio and video, in a wide range of genres: narratives, chants, oratory, conversations, songs, and more. Many recordings are transcribed and translated into Spanish, English or Portuguese. </p>\\r\\n<p>The archive also contains a wealth of language documentation materials: grammars, dictionaries, ethnographies, and field notes. The collection includes teaching materials for bilingual education and language revitalization programs.</p>\\r\\n<p>\\r\\nWe are committed to serving the indigenous people of Latin America and the scholars who study their languages. We are always interested in hearing from you. Please <a href=\\"mailto:ailla@ailla.utexas.org\\">contact us</a> if you have any questions, comments, or suggestions.\\r\\n</p>\\r\\n<p></p>\\r\\n<br>",
             \'summary\' => \'\',
             \'format\' => \'full_html\',
-            \'safe_value\' => "<p>AILLA is a digital archive of recordings and texts in and about the indigenous languages of Latin America.</p>\\n<p>\\nAccess to AILLA and its resources is always free of charge. Most of the resources in the collection are available to the public, but some have special <a href=\\"access_restrict.html\\">access restrictions</a>.\\n</p>\\n<p>\\n<b><br />\\nYou must <a href=\\"../user/login.html\\">Register and Login</a> to open or download any media file.<br /></b>\\n</p>\\n<p>\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla/images/tiniest_bunny.gif\\" /><b>Users:</b> start by <a href=\\"../search/browse.html?type=menu\\">browsing the catalog</a> or use the navigation menu on the left to find more information about the archive and the indigenous languages of Latin America.\\n</p>\\n<p>\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla/images/tiniest_bunny.gif\\" /><b>Depositors:</b> If you want to deposit materials in AILLA, <a href=\\"dep_info.html\\">start here</a>.\\n</p>\\n<p><br /></p><h3>The Collection</h3>\\n<p></p>\\n<p>The heart of the collection is recordings, both audio and video, in a wide range of genres: narratives, chants, oratory, conversations, songs, and more. Many recordings are transcribed and translated into Spanish, English or Portuguese. </p>\\n<p>The archive also contains a wealth of language documentation materials: grammars, dictionaries, ethnographies, and field notes. The collection includes teaching materials for bilingual education and language revitalization programs.</p>\\n<p>\\nWe are committed to serving the indigenous people of Latin America and the scholars who study their languages. We are always interested in hearing from you. Please <a href=\\"mailto:ailla@ailla.utexas.org\\">contact us</a> if you have any questions, comments, or suggestions.\\n</p>\\n\\n<p><br /></p>\\n",
+            \'safe_value\' => "<p>AILLA is a digital archive of recordings and texts in and about the indigenous languages of Latin America.</p>\\n<p>\\nAccess to AILLA and its resources is always free of charge. Most of the resources in the collection are available to the public, but some have special <a href=\\"access_restrict.html\\">access restrictions</a>.\\n</p>\\n<p>\\n<b><br />\\nYou must <a href=\\"../user/login.html\\">Register and Login</a> to open or download any media file.<br /></b>\\n</p>\\n<p>\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla_theme/images/tiniest_bunny.gif\\" /><b>Users:</b> start by <a href=\\"../search/browse.html?type=menu\\">browsing the catalog</a> or use the navigation menu on the left to find more information about the archive and the indigenous languages of Latin America.\\n</p>\\n<p>\\n<img align=\\"left\\" alt=\\"animal\\" src=\\"/sites/all/themes/ailla_theme/images/tiniest_bunny.gif\\" /><b>Depositors:</b> If you want to deposit materials in AILLA, <a href=\\"dep_info.html\\">start here</a>.\\n</p>\\n<p><br /></p><h3>The Collection</h3>\\n<p></p>\\n<p>The heart of the collection is recordings, both audio and video, in a wide range of genres: narratives, chants, oratory, conversations, songs, and more. Many recordings are transcribed and translated into Spanish, English or Portuguese. </p>\\n<p>The archive also contains a wealth of language documentation materials: grammars, dictionaries, ethnographies, and field notes. The collection includes teaching materials for bilingual education and language revitalization programs.</p>\\n<p>\\nWe are committed to serving the indigenous people of Latin America and the scholars who study their languages. We are always interested in hearing from you. Please <a href=\\"mailto:ailla@ailla.utexas.org\\">contact us</a> if you have any questions, comments, or suggestions.\\n</p>\\n\\n<p><br /></p>\\n",
             \'safe_summary\' => \'\',
           ),
         ),
@@ -1640,103 +1640,6 @@ function platform_content_types_node_export_features_default() {
             \'summary\' => \'\',
             \'format\' => \'filtered_html\',
             \'safe_value\' => "<p>dit odio, posuere cursus enim gravida id. Integer ut turpis quis ligula eleifend porttitor. Donec in fringilla metus. Proin bibendum sagittis ligula, eu imperdiet magna molestie eu. Donec eu lectus massa. Pellentesque sit amet tortor mi. Quisque nec elit quis eros fringilla fermentum. Suspendisse porttitor elit quis eros ultricies malesuada. Nunc sollicitudin aliquam mauris, at scelerisque ante suscipit in.</p>\\n<p>Pellentesque vestibulum lobortis purus, eget tincidunt massa viverra sit amet. Aenean a magna velit. Cras vulputate dolor leo, et tincidunt nulla ultricies id. Suspendisse euismod, lectus sit amet luctus luctus, velit dolor feugiat lorem, id bibendum neque lorem vel purus. Nulla facilisi. Aenean convallis mauris nec est maximus sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur elem</p>\\n",
-            \'safe_summary\' => \'\',
-          ),
-        ),
-      ),
-      \'rdf_mapping\' => array(
-        \'rdftype\' => array(
-          \'foaf:Document\',
-        ),
-        \'title\' => array(
-          \'predicates\' => array(
-            \'dc:title\',
-          ),
-        ),
-        \'created\' => array(
-          \'predicates\' => array(
-            \'dc:date\',
-            \'dc:created\',
-          ),
-          \'datatype\' => \'xsd:dateTime\',
-          \'callback\' => \'date_iso8601\',
-        ),
-        \'changed\' => array(
-          \'predicates\' => array(
-            \'dc:modified\',
-          ),
-          \'datatype\' => \'xsd:dateTime\',
-          \'callback\' => \'date_iso8601\',
-        ),
-        \'body\' => array(
-          \'predicates\' => array(
-            \'content:encoded\',
-          ),
-        ),
-        \'uid\' => array(
-          \'predicates\' => array(
-            \'sioc:has_creator\',
-          ),
-          \'type\' => \'rel\',
-        ),
-        \'name\' => array(
-          \'predicates\' => array(
-            \'foaf:name\',
-          ),
-        ),
-        \'comment_count\' => array(
-          \'predicates\' => array(
-            \'sioc:num_replies\',
-          ),
-          \'datatype\' => \'xsd:integer\',
-        ),
-        \'last_activity\' => array(
-          \'predicates\' => array(
-            \'sioc:last_activity_date\',
-          ),
-          \'datatype\' => \'xsd:dateTime\',
-          \'callback\' => \'date_iso8601\',
-        ),
-      ),
-      \'cid\' => \'0\',
-      \'last_comment_timestamp\' => \'1439226651\',
-      \'last_comment_name\' => NULL,
-      \'last_comment_uid\' => \'1\',
-      \'comment_count\' => \'0\',
-      \'name\' => \'islandora\',
-      \'picture\' => \'0\',
-      \'data\' => \'b:0;\',
-      \'path\' => FALSE,
-      \'menu\' => NULL,
-      \'node_export_drupal_version\' => \'7\',
-    ),
-  (object) array(
-      \'vid\' => \'16\',
-      \'uid\' => \'1\',
-      \'title\' => \'Test Two\',
-      \'log\' => \'\',
-      \'status\' => \'1\',
-      \'comment\' => \'1\',
-      \'promote\' => \'0\',
-      \'sticky\' => \'0\',
-      \'vuuid\' => \'be76d38e-6514-472c-a65d-428c1b502ecf\',
-      \'nid\' => \'16\',
-      \'type\' => \'page\',
-      \'language\' => \'en\',
-      \'created\' => \'1439226651\',
-      \'changed\' => \'1439226651\',
-      \'tnid\' => \'0\',
-      \'translate\' => \'0\',
-      \'uuid\' => \'74a82cef-d3e1-4055-9aac-07eb2f17a3e6\',
-      \'revision_timestamp\' => \'1439226651\',
-      \'revision_uid\' => \'1\',
-      \'body\' => array(
-        \'und\' => array(
-          array(
-            \'value\' => " Nunc condimentum nisl diam, ut sollicitudin tellus mattis in. Pellentesque ultrices est ultrices fringilla luctus. Fusce at odio neque. Vestibulum semper orci id maximus faucibus. Etiam vel sem rhoncus, pulvinar odio a, mollis nisl. Nullam faucibus leo luctus lorem interdum mattis. Fusce sed leo ut velit bibendum malesuada sit amet at neque. Nunc luctus congue magna vitae finibus. Ut eu mi sodales, gravida nulla ac, facilisis nisl. Nulla facilisi.\\r\\n\\r\\nNullam blandit commodo mi, semper elementum lacus consequat eu. Donec pretium elit nibh, nec vestibulum lacus rhoncus non. Duis molestie, mauris at congue hendrerit, augue risus ultricies nunc, a volutpat tellus arcu vitae dui. Praesent a sodales risus, in aliquet eros. In maximus velit est, non feugiat est vehicula eu. Vestibulum sit amet neque ligula. Aenean vel elit iaculis, maximus tortor dapibus, tristique sem. Praesent ut arcu et metus tincidunt rutrum. Nulla facilisi. Integer in congue purus. Curabitur quis auctor orci, non feugiat dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean congue est et ornare sollicitudin. ",
-            \'summary\' => \'\',
-            \'format\' => \'filtered_html\',
-            \'safe_value\' => "<p>Nunc condimentum nisl diam, ut sollicitudin tellus mattis in. Pellentesque ultrices est ultrices fringilla luctus. Fusce at odio neque. Vestibulum semper orci id maximus faucibus. Etiam vel sem rhoncus, pulvinar odio a, mollis nisl. Nullam faucibus leo luctus lorem interdum mattis. Fusce sed leo ut velit bibendum malesuada sit amet at neque. Nunc luctus congue magna vitae finibus. Ut eu mi sodales, gravida nulla ac, facilisis nisl. Nulla facilisi.</p>\\n<p>Nullam blandit commodo mi, semper elementum lacus consequat eu. Donec pretium elit nibh, nec vestibulum lacus rhoncus non. Duis molestie, mauris at congue hendrerit, augue risus ultricies nunc, a volutpat tellus arcu vitae dui. Praesent a sodales risus, in aliquet eros. In maximus velit est, non feugiat est vehicula eu. Vestibulum sit amet neque ligula. Aenean vel elit iaculis, maximus tortor dapibus, tristique sem. Praesent ut arcu et metus tincidunt rutrum. Nulla facilisi. Integer in congue purus. Curabitur quis auctor orci, non feugiat dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean congue est et ornare sollicitudin.</p>\\n",
             \'safe_summary\' => \'\',
           ),
         ),
