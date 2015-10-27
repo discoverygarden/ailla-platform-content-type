@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Ailla Platform Content feature.
+ */
+
+include_once 'ailla_platform_content.features.inc';

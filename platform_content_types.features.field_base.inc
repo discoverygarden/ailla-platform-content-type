@@ -10,7 +10,7 @@
 function platform_content_types_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'body'
+  // Exported field_base: 'body'.
   $field_bases['body'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -31,7 +31,7 @@ function platform_content_types_field_default_field_bases() {
     'type' => 'text_with_summary',
   );
 
-  // Exported field_base: 'field_slideshow_image'
+  // Exported field_base: 'field_slideshow_image'.
   $field_bases['field_slideshow_image'] = array(
     'active' => 1,
     'cardinality' => 1,
