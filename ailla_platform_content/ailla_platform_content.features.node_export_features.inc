@@ -3605,6 +3605,98 @@ function ailla_platform_content_node_export_features_default() {
       \'node_export_drupal_version\' => \'7\',
     ),
   (object) array(
+      \'vid\' => \'43\',
+      \'uid\' => \'1\',
+      \'title\' => \'Contribute\',
+      \'log\' => \'\',
+      \'status\' => \'1\',
+      \'comment\' => \'1\',
+      \'promote\' => \'0\',
+      \'sticky\' => \'0\',
+      \'vuuid\' => \'6bc48c5d-b5fb-4cec-9f21-19166ffda56f\',
+      \'nid\' => \'43\',
+      \'type\' => \'page\',
+      \'language\' => \'en\',
+      \'created\' => \'1446736044\',
+      \'changed\' => \'1446736068\',
+      \'tnid\' => \'0\',
+      \'translate\' => \'0\',
+      \'uuid\' => \'fc05708f-f61a-46ab-b724-50d40d3a8247\',
+      \'revision_timestamp\' => \'1446736068\',
+      \'revision_uid\' => \'1\',
+      \'body\' => array(),
+      \'rdf_mapping\' => array(
+        \'rdftype\' => array(
+          \'foaf:Document\',
+        ),
+        \'title\' => array(
+          \'predicates\' => array(
+            \'dc:title\',
+          ),
+        ),
+        \'created\' => array(
+          \'predicates\' => array(
+            \'dc:date\',
+            \'dc:created\',
+          ),
+          \'datatype\' => \'xsd:dateTime\',
+          \'callback\' => \'date_iso8601\',
+        ),
+        \'changed\' => array(
+          \'predicates\' => array(
+            \'dc:modified\',
+          ),
+          \'datatype\' => \'xsd:dateTime\',
+          \'callback\' => \'date_iso8601\',
+        ),
+        \'body\' => array(
+          \'predicates\' => array(
+            \'content:encoded\',
+          ),
+        ),
+        \'uid\' => array(
+          \'predicates\' => array(
+            \'sioc:has_creator\',
+          ),
+          \'type\' => \'rel\',
+        ),
+        \'name\' => array(
+          \'predicates\' => array(
+            \'foaf:name\',
+          ),
+        ),
+        \'comment_count\' => array(
+          \'predicates\' => array(
+            \'sioc:num_replies\',
+          ),
+          \'datatype\' => \'xsd:integer\',
+        ),
+        \'last_activity\' => array(
+          \'predicates\' => array(
+            \'sioc:last_activity_date\',
+          ),
+          \'datatype\' => \'xsd:dateTime\',
+          \'callback\' => \'date_iso8601\',
+        ),
+      ),
+      \'cid\' => \'0\',
+      \'last_comment_timestamp\' => \'1446736044\',
+      \'last_comment_name\' => NULL,
+      \'last_comment_uid\' => \'1\',
+      \'comment_count\' => \'0\',
+      \'name\' => \'islandora\',
+      \'picture\' => \'0\',
+      \'data\' => \'b:0;\',
+      \'path\' => array(
+        \'pid\' => \'3\',
+        \'source\' => \'node/43\',
+        \'alias\' => \'contribute\',
+        \'language\' => \'en\',
+      ),
+      \'menu\' => NULL,
+      \'node_export_drupal_version\' => \'7\',
+    ),
+  (object) array(
       \'vid\' => \'37\',
       \'uid\' => \'1\',
       \'title\' => \'Registration\',
